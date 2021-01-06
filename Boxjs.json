@@ -33,8 +33,8 @@
         "desc": "要同时跑几个账号"
       }
     ],
-    "script": "QQreadnode1.js",
-     "repo": ["https://github.com/xingliuchao/jd/blob/main/QQread.js"],
+    "script": "qqreadnode1.js",
+     "repo": ["qqreadnode1.js"],
      "author": "@xingliuchao",    
      "icons": ["https://raw.githubusercontent.com/xingliuchao/jd/main/xingliuchao.png", "https://raw.githubusercontent.com/xingliuchao/jd/main/png/qieread.png"] 
   },
